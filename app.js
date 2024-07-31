@@ -1,13 +1,9 @@
 
 
 const apikey = "ee6420e7b4759f933c87627db309dd9b";
-// const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";        
-
+// const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";  
 
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?q=india&appid=ee6420e7b4759f933c87627db309dd9b";
-
-
-
 
 
 const searchBox = document.querySelector('.search input');
